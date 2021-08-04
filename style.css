@@ -1,0 +1,18 @@
+body {
+  background: darkgrey;
+}
+.card {
+  margin: 10px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  padding: 10px;
+}
+h1, h3 {
+  text-align: center;
+}
+.range {
+  width: 85%;
+}
+hr {
+  margin: 30px 0;
+}
